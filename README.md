@@ -1,5 +1,3 @@
-Editing to check if pipeline works fine
-
 Addressbook Tutorial
 ====================
 
