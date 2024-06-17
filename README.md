@@ -1,5 +1,3 @@
-final check for the pipeline
-
 Addressbook Tutorial
 ====================
 
